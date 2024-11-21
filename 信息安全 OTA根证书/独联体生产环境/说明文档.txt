@@ -1,0 +1,2 @@
+根证书：CN = CHANGAN SUB CA.pem
+OTA签名证书：OTA_RSA2048_RUS.pem

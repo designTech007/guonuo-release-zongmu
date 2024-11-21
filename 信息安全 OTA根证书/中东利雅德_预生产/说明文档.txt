@@ -1,0 +1,2 @@
+CN = CHANGAN QA SUB CA LYD.pem：根证书
+CN=OTA_RSA2048.pem：OTA签名证书

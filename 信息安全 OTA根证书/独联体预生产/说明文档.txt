@@ -1,0 +1,3 @@
+一级根证书：root_CN=CHANGAN QA ROOT CA,O=CHANG AN Inc.,C=CN.cer
+二级根证书：CN=CHANGAN QA SUB CA,O=CHANG AN Inc.,C=CN.pem
+OTA签名证书：OTA_TEST_RSA2048_RUS.pem

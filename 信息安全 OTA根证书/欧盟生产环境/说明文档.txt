@@ -1,0 +1,2 @@
+DEEPAL_SUB_CA.pem：根证书
+changan.sign.pem：OTA签名证书
